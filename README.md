@@ -3,7 +3,9 @@
 
 Uma mesa de tennis criada com HTML5 e CSS puro
 
-Author: `Brenno C. lins - BCL-ST`
+Author: `Brenno - BCL-ST`
+
+Confira o projeto rodando na web: [Mesa de Tênis](https://table-tenny.pages.dev/)
 
 ![screen1](./imgs/1.png) 
 
@@ -14,7 +16,9 @@ Tennis table created with HTML5 and pure CSS
 
 Created by `Brenno - BCL-ST`
 
-![screen3](./imgs/3.png)
+Confira o projeto rodando na web: [Table Tennis](https://table-tenny.pages.dev/)
+
+![screen1](./imgs/2.png)
 
 ### Links
 
